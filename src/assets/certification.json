@@ -1,0 +1,18 @@
+[
+  {
+    "label": "U/A",
+    "value": "CERTIFICATION_UA"
+  },
+  {
+    "label": "U",
+    "value": "CERTIFICATION_U"
+  },
+  {
+    "label": "A",
+    "value": "CERTIFICATION_A"
+  },
+  {
+    "label": "S",
+    "value": "CERTIFICATION_S"
+  }
+]

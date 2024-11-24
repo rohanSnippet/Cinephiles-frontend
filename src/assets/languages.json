@@ -1,0 +1,15 @@
+[
+  { "label": "Hindi", "value": "Hindi" },
+  { "label": "English", "value": "English" },
+  { "label": "Marathi", "value": "Marathi" },
+  { "label": "Tamil", "value": "Tamil" },
+  { "label": "Telugu", "value": "Telugu" },
+  { "label": "Kannada", "value": "Kannada" },
+  { "label": "Malayalam", "value": "Malayalam" },
+  { "label": "Gujrati", "value": "Gujrati" },
+  { "label": "Punjabi", "value": "Punjabi" },
+  { "label": "Bengali", "value": "Bengali" },
+  { "label": "Bhojpuri", "value": "Bhojpuri" },
+  { "label": "English", "value": "English" },
+  { "label": "Assami", "value": "Assami" }
+]

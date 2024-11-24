@@ -1,0 +1,80 @@
+/* 
+  const [isDragging, setIsDragging] = useState(false);
+const handleOnDrag = (e, movieId) => {
+    e.dataTransfer.setData("movieId", movieId);
+    setIsDragging(true);
+  };
+
+  const handleOnDrop = (e) => {
+    setIsDragging(false);
+    const movieId = e.dataTransfer.getData("movieId");
+    console.log("movieId", movieId);
+    const movie = movies.find((movie) => movie.id === parseInt(movieId));
+
+    if (movie) {
+      setShows((prevState) => [...prevState, movie]);
+    }
+  };
+
+  const handleOnDragOver = (e) => {
+    e.preventDefault();
+  }; */
+
+{/* DND Section */ }
+   /*
+   <div className="relative flex items-start space-x-1 pt-8">
+   <DndContext
+     collisionDetection={closestCenter}
+     onDragEnd={handleDragEnd}
+     className="absolute z-20 top-2 "
+   >
+     <div className="p-3 flex absolute z-10 top-4">
+       <SortableContext
+         items={movies.map((movie) => movie.id)} // Pass the array of IDs
+         strategy={verticalListSortingStrategy}
+       >
+  
+         {movies.map((movie) => (
+           <SortableItem
+             key={movie.id}
+             id={movie.id}
+             width={calculateMovieWidth(movie.runtime)}
+           >
+             {movie.title}
+           </SortableItem>
+         ))}
+       </SortableContext>
+     </div>
+   </DndContext>
+
+ 
+   {timeline.map((entry, index) => {
+     const isHour = entry.minute === 0;
+     const isQuarterHour =
+       entry.minute === 15 || entry.minute === 30 || entry.minute === 45;
+
+     return (
+       <div
+         key={index}
+         className={`timeline-item relative ${
+           isHour ? "w-20" : isQuarterHour ? "w-10 " : "w-6"
+         }`}
+       >
+         {isHour && (
+           <div className="absolute -top-6 text-xs poppins-regular text-white">
+             {entry.time}
+           </div>
+         )}
+         <div
+           className={`border-l ${
+             isHour
+               ? "border-2 border-gray-200 h-10 hour"
+               : isQuarterHour
+               ? "border-2 border-gray-500 h-6 quarter"
+               : "border border-gray-400 h-4 fivemin"
+           }`}
+         ></div>
+       </div>
+     );
+   })}
+</div>*/

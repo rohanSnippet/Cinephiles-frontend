@@ -1,0 +1,45 @@
+[
+  {
+    "genre": "ACTION",
+    "image": "https://wallpapers-clan.com/wp-content/uploads/2023/12/john-wick-red-art-desktop-wallpaper-cover.jpg",
+    "banner": "actionbanner"
+  },
+
+  {
+    "genre": "FANTASY",
+    "image": "https://images.squarespace-cdn.com/content/v1/59d7e2c7e45a7c0ce235bb55/1670964725042-FCOEIX9IBGBTNA942M59/Film-Review-Avatar-the-Way-of-Water.jpg",
+    "banner": "Fantasybanner"
+  },
+  {
+    "genre": "PEROID DRAMA",
+    "image": "https://wallpapers.com/images/hd/baahubali-prabhas-hd-battle-scene-hxopdqkgvq7chv4q.jpg",
+    "banner": "Periodbanner"
+  },
+  {
+    "genre": "COMEDY",
+    "image": "https://i.redd.it/en2b082k3cu01.jpg",
+    "banner": "comedybanner"
+  },
+  {
+    "genre": "HORROR",
+    "image": "https://images.squarespace-cdn.com/content/v1/59d7e2c7e45a7c0ce235bb55/1679067876756-ATJ5VCORIAIKBU5Q0G9N/SXSW-2023-Film-Review-Evil-Dead-Rise.jpg",
+    "banner": "horrorbanner"
+  },
+
+  {
+    "genre": "ROMANCE",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2YjYwMjItMjA4Yy00OTY3LThkODMtNmZkOWU0YjU1NDFlXkEyXkFqcGc@._V1_.jpg",
+    "banner": "Romancebanner"
+  },
+  {
+    "genre": "SUSPENCE THRILLER",
+    "image": "https://w0.peakpx.com/wallpaper/1000/913/HD-wallpaper-smoking-detective-dark-black-and-white-cigarette-fog-gloomy-grunge-hat-noir-retro-smoke.jpg",
+    "banner": "Thrillerbanner"
+  },
+
+  {
+    "genre": "ANIMATED",
+    "image": "https://wallpapers.com/images/hd/animation-movies-3840-x-2160-wallpaper-gntt6qvuge302zjr.jpg",
+    "banner": "Animatedbanner"
+  }
+]

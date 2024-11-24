@@ -1,0 +1,42 @@
+[
+  {
+    "region": "Mumbai",
+    "pic": "https://png.pngtree.com/png-clipart/20240228/original/pngtree-gateway-of-india-mumbai-png-image_14438118.png",
+    "cities": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Thane",
+      "Kalyan",
+      "Dombivli",
+      "Vasai-Virar"
+    ]
+  },
+  {
+    "region": "Delhi",
+    "pic": "https://png.pngtree.com/png-vector/20240106/ourmid/pngtree-india-gate-and-nature-clip-art-sticker-png-image_11403364.png",
+    "cities": [
+      "Delhi",
+      "Gurugram",
+      "Noida",
+      "Faridabad",
+      "Ghaziabad",
+      "Greater Noida"
+    ]
+  },
+  {
+    "region": "Bengaluru",
+    "pic": "https://www.clipartmax.com/png/middle/89-899648_chennai-bangalore-bengaluru.png",
+    "cities": [
+      "Bengaluru",
+      "Hosakote",
+      "Ramanagara",
+      "Kanakapura",
+      "Devanahalli"
+    ]
+  },
+  {
+    "region": "Chennai",
+    "pic": "https://www.shutterstock.com/image-vector/chennai-city-icon-central-station-600nw-2186062815.jpg",
+    "cities": ["Chennai", "Kanchipuram", "Tiruvallur", "Sriperumbudur"]
+  }
+]

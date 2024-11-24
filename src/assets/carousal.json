@@ -1,0 +1,285 @@
+[
+  {
+    "title": "KALKI 2898 AD",
+    "runtime": 180,
+    "description": "Description of movie.",
+    "certification": "CERTIFICATION_UA",
+    "genre": ["Action", "Drama", "Fantasy"],
+    "languages": ["Hindi", "Telugu", "Tamil"],
+    "formats": ["2D", "3D"],
+    "ratings": 8.6,
+    "votes": 3700,
+    "likes": 40000,
+    "cast": {
+      "Amitabh": "Ashwathama",
+      "Prabhas": "Bhairava"
+    },
+    "crew": [
+      {
+        "name": "Nag Ashwin",
+        "roles": ["Director", "Writer"]
+      }
+    ],
+    "poster": "https://pomfort.com/news/wp-content/uploads/2024/07/pomfort-reference-kalki-movie-poster-silverstacklab.jpg",
+    "banner": "path/to/full-width-banner.jpg",
+    "trailers": {
+      "Hindi": "https://youtube.com/link-to-hindi-trailer",
+      "Telugu": "https://youtube.com/link-to-telugu-trailer"
+    },
+    "releaseDate": "2024-07-10",
+    "bookingOpen": true,
+    "promoted": true
+  },
+  {
+    "title": "KANGUVA",
+    "runtime": 150,
+    "desc": "An epic journey through uncharted realms.",
+    "certification": "CERTIFICATION_A",
+    "genre": ["Adventure", "Fantasy"],
+    "languages": ["English", "French"],
+    "formats": ["2D", "IMAX"],
+    "ratings": 9.2,
+    "votes": 5000000,
+    "likes": 4000,
+    "cast": {
+      "Chris Hemsworth": "Hero",
+      "Gal Gadot": "Heroine"
+    },
+    "crew": [
+      {
+        "name": "John Doe",
+        "roles": ["Director"]
+      },
+      {
+        "name": "Jane Smith",
+        "roles": ["Producer", "Screenwriter"]
+      }
+    ],
+    "poster": "https://preview.redd.it/kanguva-new-poster-v0-af55b37skwzb1.jpg?auto=webp&s=4ccb5eb9340f097bcef7cb5a8e6fe5ee7e5c872e",
+    "trailers": {
+      "English": "https://youtube.com/link-to-english-trailer",
+      "French": "https://youtube.com/link-to-french-trailer"
+    },
+    "releaseDate": "2024-08-14",
+    "bookingOpen": false,
+    "promoted": true
+  },
+  {
+    "title": "DEVARA PART 1",
+    "runtime": 120,
+    "description": "A mysterious story set in a tranquil valley.",
+    "certification": "R",
+    "genre": ["Mystery", "Thriller"],
+    "languages": ["Spanish", "English"],
+    "formats": ["2D", "4D"],
+    "ratings": 7.8,
+    "votes": 2800,
+    "likes": 800,
+    "cast": {
+      "Jr NTR": "Devara",
+      "Janhvi Kapoor": "Unknown",
+      "Saif Ali Khan": "Bhaira"
+    },
+    "crew": [
+      {
+        "name": "Kortala Siva",
+        "roles": ["Director", "Writer"]
+      }
+    ],
+    "poster": "https://st1.bollywoodlife.com/wp-content/uploads/2024/01/Devara.png?impolicy=Medium_Widthonly&w=400&h=711",
+    "banner": "path/to/full-width-banner3.jpg",
+    "trailers": {
+      "Spanish": "https://youtube.com/link-to-spanish-trailer",
+      "English": "https://youtube.com/link-to-english-trailer"
+    },
+    "releaseDate": "2024-09-10",
+    "bookingOpen": false,
+    "promoted": false
+  },
+  {
+    "title": "THE RAJASAAB",
+    "runtime": 140,
+    "desc": "A journey through the cosmos with unexpected twists.",
+    "certification": "PG-13",
+    "genre": ["Sci-Fi", "Action"],
+    "languages": ["English"],
+    "formats": ["2D", "IMAX"],
+    "ratings": 8.9,
+    "votes": 4600,
+    "likes": 60000,
+    "cast": {
+      "Tom Cruise": "Captain",
+      "Emily Blunt": "Navigator"
+    },
+    "crew": [
+      { "Steven Spielberg": ["Director"] },
+      { "Michael Bay": ["Producer"] }
+    ],
+    "poster": "https://i.pinimg.com/236x/2a/54/7c/2a547cbcd15fc1a7a721823e8c8a65c3.jpg",
+    "banner": "path/to/full-width-banner4.jpg",
+    "trailers": { "English": "https://youtube.com/link-to-english-trailer" },
+    "releaseDate": "2025-04-15",
+    "bookingOpen": true,
+    "promoted": false
+  },
+  {
+    "title": "JOKER",
+    "runtime": 100,
+    "desc": "A chilling thriller that keeps you on edge.",
+    "certification": "R",
+    "genre": ["Horror", "Thriller"],
+    "languages": ["English", "German"],
+    "formats": ["2D"],
+    "ratings": 7.4,
+    "votes": 3200,
+    "likes": 9060,
+    "cast": {
+      "Jenna Ortega": "Lead",
+      "Ethan Hawke": "Antagonist"
+    },
+    "crew": [
+      {
+        "name": "James Wan",
+        "roles": ["Director"]
+      },
+      {
+        "name": "Lee Whannell",
+        "roles": ["Writer"]
+      }
+    ],
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-NCwgT2N0IDIwMjQ%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00352820-vpflnudgqa-portrait.jpg",
+    "banner": "path/to/full-width-banner5.jpg",
+    "trailers": {
+      "English": "https://youtube.com/link-to-english-trailer",
+      "German": "https://youtube.com/link-to-german-trailer"
+    },
+    "releaseDate": "2024-07-27",
+    "bookingOpen": true,
+    "promoted": true
+  },
+  {
+    "title": "Romantic Getaway",
+    "runtime": 110,
+    "desc": "A heartwarming love story set in a picturesque location.",
+    "certification": "CERTIFICATION_UA",
+    "genre": ["Romance", "Comedy"],
+    "languages": ["French", "English"],
+    "formats": ["2D"],
+    "ratings": 8.1,
+    "votes": 2200,
+    "likes": 4000,
+    "cast": {
+      "Ryan Gosling": "Romantic Lead",
+      "Emma Stone": "Love Interest"
+    },
+    "crew": [
+      {
+        "name": "Sofia Coppola",
+        "roles": ["Director"]
+      },
+      {
+        "name": "Nancy Meyers",
+        "roles": ["Producer"]
+      }
+    ],
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqE8x89rz6HvUv7quxtJZxdodRmeFAJw5bw&s",
+    "banner": "path/to/full-width-banner6.jpg",
+    "trailers": {
+      "French": "https://youtube.com/link-to-french-trailer",
+      "English": "https://youtube.com/link-to-english-trailer"
+    },
+    "releaseDate": "2024-08-20",
+    "bookingOpen": true,
+    "promoted": false
+  },
+  {
+    "title": "The Great Heist",
+    "runtime": 130,
+    "desc": "A high-stakes heist with a twist.",
+    "certification": "CERTIFICATION_UA",
+    "genre": ["Crime", "Thriller"],
+    "languages": ["English"],
+    "formats": ["2D", "3D"],
+    "ratings": 8.3,
+    "votes": 3900,
+    "likes": 90000,
+    "cast": {
+      "Leonardo DiCaprio": "Mastermind",
+      "Charlize Theron": "Accomplice"
+    },
+    "crew": [
+      { "name": "Guy Ritchie", "roles": ["Director"] },
+      { "name": "Matthew Vaughn", "roles": ["Producer"] }
+    ],
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdh9bOqgl0pxHqy6_DYUf-6Drf-KVvGLjTQ&s",
+    "banner": "path/to/full-width-banner7.jpg",
+    "trailers": { "English": "https://youtube.com/link-to-english-trailer" },
+    "releaseDate": "2024-08-30",
+    "bookingOpen": true,
+    "promoted": false
+  },
+  {
+    "title": "Journey to the Center",
+    "runtime": 115,
+    "desc": "An adventurous journey deep into the Earth's core.",
+    "certification": "CERTIFICATION_UA",
+    "genre": ["Adventure", "Sci-Fi"],
+    "languages": ["English", "Japanese"],
+    "formats": ["2D"],
+    "ratings": 7.9,
+    "votes": 2500,
+    "likes": 5600,
+    "cast": {
+      "Hugh Jackman": "Explorer",
+      "Tilda Swinton": "Scientist"
+    },
+    "crew": [
+      {
+        "name": "James Cameron",
+        "roles": ["Director"]
+      },
+      {
+        "name": "Paul W.S. Anderson",
+        "roles": ["Writer"]
+      }
+    ],
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGiTxEVtO6kNpJ3hOPOAUkkYx-f5T7Ofe_xw&s",
+    "banner": "path/to/full-width-banner8.jpg",
+    "trailers": {
+      "English": "https://youtube.com/link-to-english-trailer",
+      "Japanese": "https://youtube.com/link-to-japanese-trailer"
+    },
+    "releaseDate": "2024-07-15",
+    "bookingOpen": true,
+    "promoted": false
+  },
+  {
+    "title": "Undercover Agent",
+    "runtime": 125,
+    "desc": "A thrilling spy action with lots of twists and turns.",
+    "certification": "CERTIFICATION_A",
+    "genre": ["Action", "Thriller"],
+    "languages": ["English"],
+    "formats": ["2D", "IMAX"],
+    "ratings": 8.7,
+    "votes": 4300,
+    "likes": 670,
+    "cast": {
+      "Matt Damon": "Agent",
+      "Jessica Chastain": "Partner"
+    },
+    "crew": [
+      { "name": "Paul Greengrass", "roles": ["Director"] },
+      {
+        "names": "Chris Morgan",
+        "roles": ["Writer"]
+      }
+    ],
+    "poster": "https://m.media-amazon.com/images/I/61bLCBm0dML._AC_UF894,1000_QL80_.jpg",
+    "banner": "path/to/full-width-banner9.jpg",
+    "trailers": { "English": "https://youtube.com/link-to-english-trailer" },
+    "releaseDate": "2024-09-24",
+    "bookingOpen": true,
+    "promoted": false
+  }
+]

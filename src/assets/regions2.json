@@ -1,0 +1,28 @@
+[
+  {
+    "region": "Kolkata",
+    "pic": "",
+    "cities": [
+      "Kolkata",
+      "Howrah",
+      "Salt Lake City",
+      "Rajpur Sonarpur",
+      "Bidhannagar"
+    ]
+  },
+  {
+    "region": "Hyderabad",
+    "pic": "",
+    "cities": ["Hyderabad", "Secunderabad", "Rangareddy", "Medchal"]
+  },
+  {
+    "region": "Ahmedabad",
+    "pic": "",
+    "cities": ["Ahmedabad", "Gandhinagar", "Sanand", "Kalol", "Mehsana"]
+  },
+  {
+    "region": "Pune",
+    "pic": "https://img.freepik.com/premium-vector/historic-shaniwar-wada-pune-maharashtra-fort-vector_1076263-665.jpg",
+    "cities": ["Pune", "Pimpri-Chinchwad", "Hinjewadi", "Talegaon", "Chakan"]
+  }
+]
